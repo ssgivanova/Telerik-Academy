@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\05PrintName\bin\Debug\05PrintName.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\05PrintName\bin\Debug\05PrintName.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\05PrintName\bin\Debug\05PrintName.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\05PrintName\obj\Debug\05PrintName.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\05PrintName\obj\Debug\05PrintName.pdb

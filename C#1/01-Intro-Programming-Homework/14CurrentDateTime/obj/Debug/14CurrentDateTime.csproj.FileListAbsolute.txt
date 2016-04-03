@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\14CurrentDateTime\bin\Debug\14CurrentDateTime.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\14CurrentDateTime\bin\Debug\14CurrentDateTime.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\14CurrentDateTime\bin\Debug\14CurrentDateTime.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\14CurrentDateTime\obj\Debug\14CurrentDateTime.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\14CurrentDateTime\obj\Debug\14CurrentDateTime.pdb

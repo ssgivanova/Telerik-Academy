@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\04HelloWorld\bin\Debug\04HelloWorld.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\04HelloWorld\bin\Debug\04HelloWorld.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\04HelloWorld\bin\Debug\04HelloWorld.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\04HelloWorld\obj\Debug\04HelloWorld.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\04HelloWorld\obj\Debug\04HelloWorld.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\04HelloWorld\obj\Debug\04HelloWorld.pdb

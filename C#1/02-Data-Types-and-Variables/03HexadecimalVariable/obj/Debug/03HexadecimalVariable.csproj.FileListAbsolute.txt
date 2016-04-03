@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\03HexadecimalVariable\bin\Debug\03HexadecimalVariable.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\03HexadecimalVariable\bin\Debug\03HexadecimalVariable.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\03HexadecimalVariable\bin\Debug\03HexadecimalVariable.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\03HexadecimalVariable\obj\Debug\03HexadecimalVariable.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\03HexadecimalVariable\obj\Debug\03HexadecimalVariable.pdb

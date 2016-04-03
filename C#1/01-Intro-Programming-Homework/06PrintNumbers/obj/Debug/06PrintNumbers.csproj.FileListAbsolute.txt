@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\06PrintNumbers\bin\Debug\06PrintNumbers.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\06PrintNumbers\bin\Debug\06PrintNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\06PrintNumbers\bin\Debug\06PrintNumbers.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\06PrintNumbers\obj\Debug\06PrintNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\06PrintNumbers\obj\Debug\06PrintNumbers.pdb

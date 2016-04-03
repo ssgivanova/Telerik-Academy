@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\08SquareRoot\bin\Debug\08SquareRoot.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\08SquareRoot\bin\Debug\08SquareRoot.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\08SquareRoot\bin\Debug\08SquareRoot.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\08SquareRoot\obj\Debug\08SquareRoot.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\08SquareRoot\obj\Debug\08SquareRoot.pdb

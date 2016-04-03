@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\07QuotesInStrings\bin\Debug\07QuotesInStrings.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb

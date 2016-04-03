@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb

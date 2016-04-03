@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb
