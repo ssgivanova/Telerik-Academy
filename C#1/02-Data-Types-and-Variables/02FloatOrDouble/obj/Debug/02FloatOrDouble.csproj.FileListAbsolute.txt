@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb

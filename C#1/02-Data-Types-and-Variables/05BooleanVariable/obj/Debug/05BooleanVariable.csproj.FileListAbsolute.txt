@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\05BooleanVariable\bin\Debug\05BooleanVariable.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\05BooleanVariable\obj\Debug\05BooleanVariable.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\05BooleanVariable\obj\Debug\05BooleanVariable.pdb

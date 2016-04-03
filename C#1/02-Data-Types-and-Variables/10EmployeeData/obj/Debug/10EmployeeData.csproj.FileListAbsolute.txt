@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\10EmployeeData\bin\Debug\10EmployeeData.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\10EmployeeData\bin\Debug\10EmployeeData.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\10EmployeeData\bin\Debug\10EmployeeData.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\10EmployeeData\obj\Debug\10EmployeeData.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\10EmployeeData\obj\Debug\10EmployeeData.pdb

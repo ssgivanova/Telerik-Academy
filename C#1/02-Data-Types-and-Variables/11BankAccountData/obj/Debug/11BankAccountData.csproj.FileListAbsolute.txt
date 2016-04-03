@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\11BankAccountData\bin\Debug\11BankAccountData.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\11BankAccountData\bin\Debug\11BankAccountData.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\11BankAccountData\bin\Debug\11BankAccountData.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\11BankAccountData\obj\Debug\11BankAccountData.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\11BankAccountData\obj\Debug\11BankAccountData.pdb

@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\06StringAndObjects\bin\Debug\06StringAndObjects.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\06StringAndObjects\bin\Debug\06StringAndObjects.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\06StringAndObjects\bin\Debug\06StringAndObjects.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\06StringAndObjects\obj\Debug\06StringAndObjects.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\06StringAndObjects\obj\Debug\06StringAndObjects.pdb

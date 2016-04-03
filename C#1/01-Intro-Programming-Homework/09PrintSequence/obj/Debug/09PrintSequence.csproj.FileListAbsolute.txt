@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\09PrintSequence\bin\Debug\09PrintSequence.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\09PrintSequence\bin\Debug\09PrintSequence.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\09PrintSequence\bin\Debug\09PrintSequence.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\09PrintSequence\obj\Debug\09PrintSequence.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\09PrintSequence\obj\Debug\09PrintSequence.pdb

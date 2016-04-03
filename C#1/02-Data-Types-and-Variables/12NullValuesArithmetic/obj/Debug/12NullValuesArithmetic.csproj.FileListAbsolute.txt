@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.pdb

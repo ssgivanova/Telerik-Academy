@@ -1,1 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\13Comparing Floats\bin\Debug\13Comparing Floats.exe.config

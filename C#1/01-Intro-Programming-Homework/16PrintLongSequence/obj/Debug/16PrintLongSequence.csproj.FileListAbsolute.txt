@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\16PrintLongSequence\bin\Debug\16PrintLongSequence.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\16PrintLongSequence\obj\Debug\16PrintLongSequence.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\01-Intro-Programming-Homework\16PrintLongSequence\obj\Debug\16PrintLongSequence.pdb

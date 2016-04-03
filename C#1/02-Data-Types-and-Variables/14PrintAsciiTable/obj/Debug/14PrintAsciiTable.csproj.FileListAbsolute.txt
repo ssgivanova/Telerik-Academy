@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\14PrintAsciiTable\bin\Debug\14PrintAsciiTable.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\14PrintAsciiTable\bin\Debug\14PrintAsciiTable.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\14PrintAsciiTable\bin\Debug\14PrintAsciiTable.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\14PrintAsciiTable\obj\Debug\14PrintAsciiTable.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\14PrintAsciiTable\obj\Debug\14PrintAsciiTable.pdb

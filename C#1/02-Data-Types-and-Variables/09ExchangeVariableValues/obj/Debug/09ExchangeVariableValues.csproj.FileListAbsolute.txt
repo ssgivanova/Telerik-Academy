@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\022-Data-Types-and-Variables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb
