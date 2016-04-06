@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\09Trapezoid\bin\Debug\09Trapezoid.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\09Trapezoid\bin\Debug\09Trapezoid.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\09Trapezoid\bin\Debug\09Trapezoid.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\09Trapezoid\obj\Debug\09Trapezoid.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\09Trapezoid\obj\Debug\09Trapezoid.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\09Trapezoid\obj\Debug\09Trapezoid.pdb

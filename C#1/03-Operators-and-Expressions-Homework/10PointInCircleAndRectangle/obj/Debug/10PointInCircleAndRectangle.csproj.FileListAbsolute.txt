@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\10PointInCircleAndRectangle\bin\Debug\10PointInCircleAndRectangle.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\10PointInCircleAndRectangle\bin\Debug\10PointInCircleAndRectangle.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\10PointInCircleAndRectangle\bin\Debug\10PointInCircleAndRectangle.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\10PointInCircleAndRectangle\obj\Debug\10PointInCircleAndRectangle.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\10PointInCircleAndRectangle\obj\Debug\10PointInCircleAndRectangle.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\10PointInCircleAndRectangle\obj\Debug\10PointInCircleAndRectangle.pdb

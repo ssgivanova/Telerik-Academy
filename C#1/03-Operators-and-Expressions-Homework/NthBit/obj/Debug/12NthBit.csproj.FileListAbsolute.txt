@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\NthBit\bin\Debug\NthBit.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\NthBit\bin\Debug\NthBit.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\NthBit\bin\Debug\NthBit.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\NthBit\obj\Debug\NthBit.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\NthBit\obj\Debug\NthBit.pdb

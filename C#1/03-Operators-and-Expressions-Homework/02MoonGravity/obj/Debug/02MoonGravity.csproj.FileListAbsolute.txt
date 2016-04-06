@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\02MoonGravity\bin\Debug\02MoonGravity.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\02MoonGravity\bin\Debug\02MoonGravity.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\02MoonGravity\bin\Debug\02MoonGravity.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\02MoonGravity\obj\Debug\02MoonGravity.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\02MoonGravity\obj\Debug\02MoonGravity.pdb

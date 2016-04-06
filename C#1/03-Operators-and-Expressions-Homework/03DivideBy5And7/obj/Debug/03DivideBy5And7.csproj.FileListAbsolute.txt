@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\03DivideBy5And7\bin\Debug\03DivideBy5And7.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\03DivideBy5And7\bin\Debug\03DivideBy5And7.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\03DivideBy5And7\bin\Debug\03DivideBy5And7.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\03DivideBy5And7\obj\Debug\03DivideBy5And7.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\03DivideBy5And7\obj\Debug\03DivideBy5And7.pdb
