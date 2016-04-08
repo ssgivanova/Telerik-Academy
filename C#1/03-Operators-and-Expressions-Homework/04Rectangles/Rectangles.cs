@@ -31,6 +31,6 @@ class Rectangles
             float permiter = 2 * (width + height);
             float area = width * height;
 
-            Console.WriteLine("{0:f2} {1:f2}", permiter,area);
+            Console.WriteLine("{0:0.00} {1:0.00}", area, permiter);
         }
 }

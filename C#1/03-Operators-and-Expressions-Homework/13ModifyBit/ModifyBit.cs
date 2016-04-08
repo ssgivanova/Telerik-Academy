@@ -19,21 +19,21 @@ class ModifyBit
  {
         static void Main()
         {
-            long n = long.Parse(Console.ReadLine());
-            sbyte p = sbyte.Parse(Console.ReadLine());
-            sbyte v = sbyte.Parse(Console.ReadLine());
+            ulong n = ulong.Parse(Console.ReadLine());
+            byte p = byte.Parse(Console.ReadLine());
+            byte v = byte.Parse(Console.ReadLine());
 
             //binary representation of n
             //Console.WriteLine(Convert.ToString(n,2).PadLeft(16,'0'));
 
             //get the current bit value
-            long mask = 1 << p;
-            long nAndMask = n & mask;
-            long currentBit = nAndMask >> p;
+            ulong mask = (ulong)(1 << p);
+            ulong nAndMask = n & mask;
+            ulong currentBit = nAndMask >> p;
             //Console.WriteLine("current bit = " + currentBit);
 
-            long result = 0;
-            long bit;
+            ulong result = 0;
+            ulong bit;
 
             //the bit has to be changed to 0
             if (v == 0)
@@ -48,7 +48,7 @@ class ModifyBit
                 else if (currentBit == 1)
                 {
                     //set the current bit to 0
-                    long invertedMask = ~mask; // ~(1 << p)
+                    ulong invertedMask = ~mask; // ~(1 << p)
                     result = n & invertedMask;
                     //Console.WriteLine(Convert.ToString(result, 2).PadLeft(16, '0'));
                     //bit = nAndInvertedMask >> p;

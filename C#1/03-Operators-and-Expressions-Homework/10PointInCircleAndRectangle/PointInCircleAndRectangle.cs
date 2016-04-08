@@ -31,8 +31,8 @@ class PointInCircleAndRectangle
             float rectBottomRightX = rectTopLeftX + width;
             float rectBottomRightY = rectTopLeftY - height;
 
-            Console.WriteLine("top : {0},{1}",rectTopLeftX,rectTopLeftY);
-            Console.WriteLine("bottom : {0},{1}",rectBottomRightX,rectBottomRightY);
+            //Console.WriteLine("top : {0},{1}",rectTopLeftX,rectTopLeftY);
+            //Console.WriteLine("bottom : {0},{1}",rectBottomRightX,rectBottomRightY);
 
             bool insideCircle = false;
             bool insideRectangle = false;

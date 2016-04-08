@@ -26,7 +26,13 @@ using System.Globalization;
             float b = float.Parse(Console.ReadLine());
             float h = float.Parse(Console.ReadLine());
 
-            float area = ((a + b) * h) / 2;
+            float area = h * (a + b) / 2;
+
+            if (a + b < 0)
+            {
+                area = 0; // error
+            }
+
             Console.WriteLine("{0:f7}",area);
         }
     }
