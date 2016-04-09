@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\02BonusScore\bin\Debug\02BonusScore.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\02BonusScore\bin\Debug\02BonusScore.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\02BonusScore\bin\Debug\02BonusScore.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\02BonusScore\obj\Debug\02BonusScore.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\02BonusScore\obj\Debug\02BonusScore.pdb
