@@ -25,11 +25,11 @@ class Rectangles
         {
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
-            float width = float.Parse(Console.ReadLine());
-            float height = float.Parse(Console.ReadLine());
+            double width = double.Parse(Console.ReadLine());
+            double height = double.Parse(Console.ReadLine());
 
-            float permiter = 2 * (width + height);
-            float area = width * height;
+            double permiter = 2 * (width + height);
+            double area = width * height;
 
             Console.WriteLine("{0:0.00} {1:0.00}", area, permiter);
         }

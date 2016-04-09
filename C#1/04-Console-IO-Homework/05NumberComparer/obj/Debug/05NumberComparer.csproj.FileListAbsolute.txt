@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\05NumberComparer\bin\Debug\05NumberComparer.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\05NumberComparer\bin\Debug\05NumberComparer.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\05NumberComparer\bin\Debug\05NumberComparer.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\05NumberComparer\obj\Debug\05NumberComparer.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\05NumberComparer\obj\Debug\05NumberComparer.pdb

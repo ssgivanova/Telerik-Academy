@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\11Interval\bin\Debug\11Interval.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\11Interval\bin\Debug\11Interval.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\11Interval\bin\Debug\11Interval.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\11Interval\obj\Debug\11Interval.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\11Interval\obj\Debug\11Interval.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\11Interval\obj\Debug\11Interval.pdb

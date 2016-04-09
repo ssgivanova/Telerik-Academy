@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\10FibonnacciNumbers\bin\Debug\10FibonnacciNumbers.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\10FibonnacciNumbers\bin\Debug\10FibonnacciNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\10FibonnacciNumbers\bin\Debug\10FibonnacciNumbers.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\10FibonnacciNumbers\obj\Debug\10FibonnacciNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\10FibonnacciNumbers\obj\Debug\10FibonnacciNumbers.pdb

@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\04FormattingNumbers\bin\Debug\04FormattingNumbers.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\04FormattingNumbers\bin\Debug\04FormattingNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\04FormattingNumbers\bin\Debug\04FormattingNumbers.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\04FormattingNumbers\obj\Debug\04FormattingNumbers.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\04FormattingNumbers\obj\Debug\04FormattingNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\04FormattingNumbers\obj\Debug\04FormattingNumbers.pdb

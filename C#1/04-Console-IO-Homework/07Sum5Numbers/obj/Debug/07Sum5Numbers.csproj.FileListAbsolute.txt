@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\07Sum5Numbers\bin\Debug\07Sum5Numbers.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\07Sum5Numbers\bin\Debug\07Sum5Numbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\07Sum5Numbers\bin\Debug\07Sum5Numbers.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\07Sum5Numbers\obj\Debug\07Sum5Numbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\07Sum5Numbers\obj\Debug\07Sum5Numbers.pdb

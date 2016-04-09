@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\02CompanyInfo\bin\Debug\02CompanyInfo.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\02CompanyInfo\bin\Debug\02CompanyInfo.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\02CompanyInfo\bin\Debug\02CompanyInfo.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\02CompanyInfo\obj\Debug\02CompanyInfo.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\02CompanyInfo\obj\Debug\02CompanyInfo.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\02CompanyInfo\obj\Debug\02CompanyInfo.pdb

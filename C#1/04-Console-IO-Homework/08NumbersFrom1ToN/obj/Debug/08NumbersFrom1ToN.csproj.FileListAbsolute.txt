@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.pdb

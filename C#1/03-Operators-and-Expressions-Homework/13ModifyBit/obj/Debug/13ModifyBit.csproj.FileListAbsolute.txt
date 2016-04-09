@@ -3,3 +3,4 @@ D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\13Mod
 D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\13ModifyBit\bin\Debug\13ModifyBit.pdb
 D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\13ModifyBit\obj\Debug\13ModifyBit.exe
 D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\13ModifyBit\obj\Debug\13ModifyBit.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\13ModifyBit\obj\Debug\13ModifyBit.csprojResolveAssemblyReference.cache

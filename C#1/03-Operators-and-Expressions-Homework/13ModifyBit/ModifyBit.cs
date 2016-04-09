@@ -16,67 +16,50 @@
 
 
 class ModifyBit
- {
-        static void Main()
+{
+    static void Main()
+    {
+        ulong n = ulong.Parse(Console.ReadLine());
+        int p = int.Parse(Console.ReadLine());
+        int v = int.Parse(Console.ReadLine());
+
+        //get the current bit value
+        ulong mask = 0;
+        ulong invertedMask = 0;
+        mask = (ulong)(1 << p);
+        invertedMask = ~((ulong)1 << p);//    (ulong)(~(ulong)(1 << p));
+        ulong nAndMask = n & mask;
+        ulong currentBit = nAndMask >> p;
+
+        ulong result = 0;
+
+        //the bit has to be changed to 0
+        if (v == 0)
         {
-            ulong n = ulong.Parse(Console.ReadLine());
-            byte p = byte.Parse(Console.ReadLine());
-            byte v = byte.Parse(Console.ReadLine());
-
-            //binary representation of n
-            //Console.WriteLine(Convert.ToString(n,2).PadLeft(16,'0'));
-
-            //get the current bit value
-            ulong mask = (ulong)(1 << p);
-            ulong nAndMask = n & mask;
-            ulong currentBit = nAndMask >> p;
-            //Console.WriteLine("current bit = " + currentBit);
-
-            ulong result = 0;
-            ulong bit;
-
-            //the bit has to be changed to 0
-            if (v == 0)
+            if (currentBit == 0)
             {
-                if (currentBit == 0)
-                {
-                    //no change need
-                    //Console.WriteLine(Convert.ToString(n, 2).PadLeft(16, '0'));
-                    result = n;
-                    Console.WriteLine(result);
-                }
-                else if (currentBit == 1)
-                {
-                    //set the current bit to 0
-                    ulong invertedMask = ~mask; // ~(1 << p)
-                    result = n & invertedMask;
-                    //Console.WriteLine(Convert.ToString(result, 2).PadLeft(16, '0'));
-                    //bit = nAndInvertedMask >> p;
-                    //Console.WriteLine("new bit = "+bit);
-                    Console.WriteLine(result);
-                }
+                //no change need
+                result = n;
             }
-
-            if (v == 1)
+            else if (currentBit == 1)
             {
-                if (currentBit == 0)
-                {
-                    //set the bit to 0
-                    result = n | mask; // n | (1 <<p)
-                    bit = result >> p;
-                    //Console.WriteLine("new bit = " + bit);
-                    Console.WriteLine(result);
-                    
-                }
-                if (currentBit == 1)
-                {
-                    //no change needed
-                    //Console.WriteLine(Convert.ToString(n, 2).PadLeft(16, '0'));
-                    result = n;
-                    Console.WriteLine(result);
-                }
+                //set the current bit to 0
+                result = (ulong)(n & invertedMask);
             }
-
-
         }
- }
+        else
+        {
+            if (currentBit == 0)
+            {
+                //set the bit to 0
+                result = (ulong)(n | mask);
+            }
+            if (currentBit == 1)
+            {
+                //no change needed
+                result = n;
+            }
+        }
+        Console.WriteLine(result);
+    }
+}

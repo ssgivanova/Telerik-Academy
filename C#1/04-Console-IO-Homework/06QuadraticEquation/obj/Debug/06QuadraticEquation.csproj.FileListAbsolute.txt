@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\06QuadraticEquation\obj\Debug\06QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb
