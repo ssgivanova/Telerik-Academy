@@ -40,28 +40,21 @@ class QuadraticEquation
             if (discriminant > 0)
             {
                 //2 real roots
-                x1 = (-b + Math.Sqrt(discriminant)) / 2 * a;
-                x2 = (-b - Math.Sqrt(discriminant)) / 2 * a;
+                x1 = (-b + Math.Sqrt(discriminant)) / (2 * a);
+                x2 = (-b - Math.Sqrt(discriminant)) / (2 * a);
                 Console.WriteLine((x1 < x2) ? "{0:f2}\n{1:f2}" : "{1:f2}\n{0:f2}", x1, x2);
 
-                //Console.WriteLine((i == m) ? "Number is valid" : "Number is not valid");
             }
             else if (discriminant == 0)
             {
                 //1 real root
-                x = -b / 2 * a;
+                x = -b / (2 * a);
                 Console.WriteLine("{0:f2}",x);
             }
             else
             {
                 //no real roots
                 Console.WriteLine("no real roots");
-            }
-
-            
-
-            
-
-            
+            }            
         }
 }
