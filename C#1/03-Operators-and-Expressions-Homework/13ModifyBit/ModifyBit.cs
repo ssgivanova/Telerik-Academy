@@ -26,10 +26,11 @@ class ModifyBit
         //get the current bit value
         ulong mask = 0;
         ulong invertedMask = 0;
-        mask = (ulong)(1 << p);
-        invertedMask = ~((ulong)1 << p);//    (ulong)(~(ulong)(1 << p));
+        mask = (ulong)1 << p;
+        invertedMask = ~((ulong)1 << p);
         ulong nAndMask = n & mask;
         ulong currentBit = nAndMask >> p;
+        Console.WriteLine("0x{0:X}",invertedMask);
 
         ulong result = 0;
 
@@ -44,7 +45,7 @@ class ModifyBit
             else if (currentBit == 1)
             {
                 //set the current bit to 0
-                result = (ulong)(n & invertedMask);
+                result = n & invertedMask;
             }
         }
         else
@@ -52,7 +53,7 @@ class ModifyBit
             if (currentBit == 0)
             {
                 //set the bit to 0
-                result = (ulong)(n | mask);
+                result = n | mask;
             }
             if (currentBit == 1)
             {

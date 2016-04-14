@@ -20,10 +20,10 @@ class FibonnacciNumbers
 {
         static void Main()
         {
-            uint n = uint.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
 
-            uint n1 = 0;
-            uint n2 = 1;
+            ulong n1 = 0;
+            ulong n2 = 1;
 
             if (n == 1)
             {
@@ -34,7 +34,7 @@ class FibonnacciNumbers
                 Console.Write("{0}, {1}", n1, n2);
                 for (int i = 1; i < n - 1; i++)
                 {
-                    uint n3 = n1 + n2;
+                    ulong n3 = n1 + n2;
                     n1 = n2;
                     n2 = n3;
                     Console.Write(", {0}", n3);

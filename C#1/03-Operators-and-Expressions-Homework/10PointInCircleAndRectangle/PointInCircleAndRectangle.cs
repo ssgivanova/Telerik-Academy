@@ -26,8 +26,8 @@ class PointInCircleAndRectangle
             float width = 6.0f;
             float height = 2.0f;
 
-            float rectTopLeftX = 1.0f;
-            float rectTopLeftY = -1.0f;
+            float rectTopLeftX = -1.0f;
+            float rectTopLeftY = 1.0f;
             float rectBottomRightX = rectTopLeftX + width;
             float rectBottomRightY = rectTopLeftY - height;
 

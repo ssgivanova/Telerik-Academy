@@ -18,6 +18,10 @@ class NumberComparer
             float b = float.Parse(Console.ReadLine());
 
             float greater = a > b ? a : b;
-            Console.WriteLine(greater);
+
+            float greaterNumber = Math.Max(a, b);
+            Console.WriteLine(greaterNumber);
+
+            //Console.WriteLine(greater);
         }
 }

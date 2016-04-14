@@ -23,7 +23,7 @@
             int pos24 = 24;
             int pos25 = 25;
             int pos26 = 26;
-            uint result = 0;
+            uint result = n;
 
             // get the bits
             uint nAndMask3 = (uint)(n & (1 << pos3)) ;
@@ -56,19 +56,19 @@
             else if (bit3 == 0 && bit24 == 1)
             {
                 //set bit3 to 1 
-                result = (uint)(1 << pos3) | n;
+                result = ((uint)1 << pos3) | result ;
                 
                 //set bit24 to 0
-                result = (uint)(~(1 << pos24) & result);
+                result = (~((uint)1 << pos24)) & result;
 
             }
             else if (bit3 == 1 && bit24 == 0)
             {
                 //set bit3 to 0
-                result = (uint)(~(1 << pos3) & n);
+                result = (~((uint)1 << pos3)) & result;
 
                 //set bit24 to 1
-                result = (uint)(1 << pos24) | result;
+                result = ((uint)1 << pos24) | result;
 
             }
 
@@ -81,19 +81,19 @@
             else if (bit4 == 0 && bit25 == 1)
             {
                 //set bit4 to 1 
-                result = (uint)(1 << pos4) | n;
+                result = ((uint)1 << pos4) | result;
                 
                 //set bit25 to 0
-                result = (uint)(~(1 << pos25) & result);
+                result = (~((uint)1 << pos25)) & result;
 
             }
             else if (bit4 == 1 && bit25 == 0)
             {
                 //set bit4 to 0
-                result = (uint)(~(1 << pos4) & n);
+                result = (~((uint)1 << pos4)) & result;
 
                 //set bit25 to 1
-                result = (uint)(1 << pos25) | result;
+                result = ((uint)1 << pos25) | result;
             }
 
             //exchange 5 and 26 bits
@@ -105,26 +105,24 @@
             else if (bit5 == 0 && bit26 == 1)
             {
                 //set bit5 to 1 
-                result = (uint)(1 << pos5) | n;
+                result = ((uint)1 << pos5) | result;
                 //set bit26 to 0
-                result = (uint)(~(1 << pos26) & result);
+                result = (~((uint)1 << pos26)) & result;
 
             }
             else if (bit5 == 1 && bit26 == 0)
             {
                 //set bit5 to 0
-                result = (uint)(~(1 << pos5) & n);
+                result = (~((uint)1 << pos5)) & result;
 
                 //set bit26 to 1
-                result = (uint)(1 << pos26) | result;
+                result = ((uint)1 << pos26) | result;
             }
 
             Console.WriteLine("before exchange");
-            Console.WriteLine(Convert.ToString(n,2).PadLeft(32,'0'));
+            Console.WriteLine(Convert.ToString(n, 2).PadLeft(32, '0'));
             Console.WriteLine("after exchange");
             Console.WriteLine(Convert.ToString(result, 2).PadLeft(32, '0'));
             Console.WriteLine(result);
-
-
         }
     }
