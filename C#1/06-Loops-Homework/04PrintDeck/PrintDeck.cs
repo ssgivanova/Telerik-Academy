@@ -23,7 +23,7 @@ class Program
          string finalSign = Console.ReadLine();
 
          string[] signs = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "A", "K", "Q", "J" };
-         string[] suits = { "clubs", "diamonds", "hearts", "spades" };
+         string[] suits = { "spades", "clubs","hearts", "diamonds" };
 
          for (int i = 0; i < signs.Length; i++)
          {

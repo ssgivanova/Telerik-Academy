@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\11BinaryToDecimal\bin\Debug\11BinaryToDecimal.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\11BinaryToDecimal\bin\Debug\11BinaryToDecimal.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\11BinaryToDecimal\bin\Debug\11BinaryToDecimal.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\11BinaryToDecimal\obj\Debug\11BinaryToDecimal.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\11BinaryToDecimal\obj\Debug\11BinaryToDecimal.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\11BinaryToDecimal\obj\Debug\11BinaryToDecimal.csprojResolveAssemblyReference.cache

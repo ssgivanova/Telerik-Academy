@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\13DecimalToHex\bin\Debug\13DecimalToHex.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\13DecimalToHex\bin\Debug\13DecimalToHex.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\13DecimalToHex\bin\Debug\13DecimalToHex.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\13DecimalToHex\obj\Debug\13DecimalToHex.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\13DecimalToHex\obj\Debug\13DecimalToHex.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\13DecimalToHex\obj\Debug\13DecimalToHex.pdb

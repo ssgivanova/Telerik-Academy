@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading;
 using System.Globalization;
+using System.Numerics;
 
 //Write a program that, for a given two integer numbers N and x, calculates the sum 
 //S = 1 + 1!/x + 2!/x2 + … + N!/xN.
@@ -29,7 +30,7 @@ class Calculate
             int x = int.Parse(Console.ReadLine());
 
             float sum = 0f;
-            int factoriel = 1;
+            BigInteger factoriel = 1;
             int pow = 1; 
 
             //S = 1 + 1!/x + 2!/x2 + … + N!/xN.

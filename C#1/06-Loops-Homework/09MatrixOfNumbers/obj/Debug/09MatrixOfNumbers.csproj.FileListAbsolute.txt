@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.pdb

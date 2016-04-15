@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 //Write a program that calculates N! / K! for given N and K.
 //•Use only one loop.
@@ -25,10 +26,10 @@ class CalculateAgain
 
         //n>k => n!/k! for n=5, k=2 => 1.2.3.4.5/1.2 => 3.4.5 (n-k)!
 
-         ulong factoriel = 1;
+         BigInteger factoriel = 1;
          for (int i = n; i >= k + 1; i--)
          {
-             factoriel *= (ulong) i;
+             factoriel *=  i;
          }
          Console.WriteLine(factoriel);
      }

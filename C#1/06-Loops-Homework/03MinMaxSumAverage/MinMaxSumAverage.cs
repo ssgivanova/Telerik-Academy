@@ -54,10 +54,10 @@ class MinMaxSumAverage
             }
 
             avg = (float) sum / n;
-            
-            Console.WriteLine("min={0}", min);
-            Console.WriteLine("max={0}", max);
-            Console.WriteLine("sum={0}", sum);
+
+            Console.WriteLine("min={0:f2}", min);
+            Console.WriteLine("max={0:f2}", max);
+            Console.WriteLine("sum={0:f2}", sum);
             Console.WriteLine("avg={0:f2}", avg);
         }
 }

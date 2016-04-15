@@ -26,37 +26,25 @@ class BiggestOf5
             float d = float.Parse(Console.ReadLine());
             float e = float.Parse(Console.ReadLine());
 
-            float max = 0.0f;
+            float max = a;
 
-            if (a == b && b == c && c == d && d == e && e == a)
+            if (b > max)
             {
-                max = a;
+                max = b;
             }
-            else
+            if (c > max)
             {
-                if (a > b && a > c && a > d && a > e)
-                {
-                    max = a;
-                }
-                else if (b > a && b > c && b > d && b > e)
-                {
-                    max = b;
-                }
-                else if (c > a && c > b && c > d && c > e)
-                {
-                    max = c;
-                }
-                else if (d > a && d > c && d > b && d > e)
-                {
-                    max = d;
-                }
-                else if (e > a && e > c && e > d && e > b)
-                {
-                    max = e;
-                }
+                max = c;
+            }
+            if (d > max)
+            {
+                max = d;
+            }
+            if (e > max)
+            {
+                max = e;
             }
             
-
             Console.WriteLine(max);
         }
 }

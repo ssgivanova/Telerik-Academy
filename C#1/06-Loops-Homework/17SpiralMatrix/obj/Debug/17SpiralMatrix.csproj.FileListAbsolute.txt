@@ -1,0 +1,1 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\17SpiralMatrix\bin\Debug\17SpiralMatrix.exe.config
