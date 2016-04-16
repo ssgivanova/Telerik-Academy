@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading;
 using System.Globalization;
+using System.Numerics;
 
 //Write a program that reads from the console a sequence of N integer numbers and returns the minimal, 
 //the maximal number, the sum and the average of all numbers (displayed with 2 digits after the decimal 
@@ -30,7 +31,7 @@ class MinMaxSumAverage
             
             int n = int.Parse(Console.ReadLine());
 
-            int sum = 0;
+            BigInteger sum = 0;
             float avg = 0f;
 
             //read the first number and initialize min and max to it
