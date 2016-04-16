@@ -14,7 +14,7 @@ using System.Globalization;
 
 //2
 //5
-//2 + 
+//2 +
 
 
 class MultiplicationSign
@@ -30,7 +30,7 @@ class MultiplicationSign
             char sign = '+';
 
             //product is zero
-            if (a == b || b == 0 || c == 0)
+            if (a == 0 || b == 0 || c == 0)
             {
                 sign = '0';
             }

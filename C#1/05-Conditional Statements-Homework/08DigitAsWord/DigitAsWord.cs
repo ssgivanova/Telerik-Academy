@@ -25,10 +25,11 @@ class DigitAsWord
 
         int n;
         string input = Console.ReadLine();
-        if (int.TryParse(input,out n))
+        if (int.TryParse(input, out n))
         {
             switch (n)
             {
+                case 0: Console.WriteLine("zero"); break;
                 case 1: Console.WriteLine("one"); break;
                 case 2: Console.WriteLine("two"); break;
                 case 3: Console.WriteLine("three"); break;

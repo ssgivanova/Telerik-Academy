@@ -3,3 +3,4 @@ D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\03PlayCa
 D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\03PlayCard\bin\Debug\03PlayCard.pdb
 D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\03PlayCard\obj\Debug\03PlayCard.exe
 D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\03PlayCard\obj\Debug\03PlayCard.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\03PlayCard\obj\Debug\03PlayCard.csprojResolveAssemblyReference.cache

@@ -25,19 +25,30 @@
 
         int gcd = 0;
         int remainder = 0;
+        int bigger = 0;
+        int smaller = 0;
+
+        if (a > b)
+        {
+            smaller = b; bigger = a;
+        }
+        else
+        {
+            smaller = a; bigger = b;
+        }
         
         //first solution - by division
-        while (b != 0)
+        while (smaller != 0)
         {
-            remainder = a % b;
-            a = b;
-            b = remainder;
-            //Console.WriteLine("{0}, {1}, rem {2}", a, b, remainder);
+            remainder = bigger % smaller;
+            bigger = smaller;
+            smaller = remainder;
+            //Console.WriteLine("{0}, {1}, rem {2}", bigger, smaller, remainder);
         }
-        gcd = a;
+        gcd = Math.Abs(bigger);
         Console.WriteLine(gcd);
 
-        //second solution - with substraction
+        //second solution - with substraction - TOO SLOW - OUT OF TIME LIMIT
         //while (a != b)
         //{
         //    if (a > b)

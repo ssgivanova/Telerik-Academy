@@ -27,28 +27,24 @@ class Calculate
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
             int n = int.Parse(Console.ReadLine());
-            int x = int.Parse(Console.ReadLine());
+            double x = double.Parse(Console.ReadLine());
 
-            float sum = 0f;
-            BigInteger factoriel = 1;
-            int pow = 1; 
+            double sum = 1;
+            int factoriel = 1;
+            double pow = 1;
+
+            if (x == 0)
+            {
+                Console.WriteLine("invalid input - division by zero");
+            }
 
             //S = 1 + 1!/x + 2!/x2 + … + N!/xN.
 
-            for (int i = 0; i <= n; i++)
+            for (int i = 1; i <= n; i++)
             {
-                if (i == 0)
-                {
-                    factoriel = 1;
-                    pow = 1;
-                }
-                else
-                {
-                    factoriel = factoriel * i;
-                    pow *= x;
-                }
-                sum += (float)factoriel / pow;
-                //Console.WriteLine("i={0} -> {1}/{2}", i,factoriel,pow);              
+                factoriel *= i;
+                pow *= x;
+                sum += factoriel / pow;            
             }
             Console.WriteLine("{0:f5}",sum);
         }

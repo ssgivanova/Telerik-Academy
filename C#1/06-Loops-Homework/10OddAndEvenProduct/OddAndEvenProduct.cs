@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 //You are given N integers (given in a single line, separated by a space).
 //•Write a program that checks whether the product of the odd elements is equal to the product 
@@ -24,8 +25,8 @@ class OddAndEvenProduct
     {
         int n = int.Parse(Console.ReadLine());
 
-        int productOdd = 1;
-        int productEven = 1;
+        BigInteger productOdd = 1;
+        BigInteger productEven = 1;
         bool isProductEqual = false;
 
         string[] numbers = (Console.ReadLine()).Split(' ');
@@ -55,6 +56,5 @@ class OddAndEvenProduct
         {
             Console.WriteLine("no {0} {1}", productOdd, productEven);
         }
-
     }
 }

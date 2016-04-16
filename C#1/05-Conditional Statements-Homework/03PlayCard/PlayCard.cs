@@ -23,20 +23,21 @@ class PlayCard
 
             bool isValid = false;
 
-            if (input.Equals("J") || input.Equals("Q") || input.Equals("A") || input.Equals("2")
-                || input.Equals("3") || input.Equals("4") || input.Equals("5") || input.Equals("6")
-                || input.Equals("7") || input.Equals("8") || input.Equals("9"))
+            if (input.Equals("J") || input.Equals("Q") || input.Equals("A") || input.Equals("K")
+                || input.Equals("2") || input.Equals("3") || input.Equals("4") || input.Equals("5")
+                || input.Equals("6") || input.Equals("7") || input.Equals("8") || input.Equals("9") 
+                || input.Equals("10"))
             {
                 isValid = true;
             }
 
             if (isValid)
             {
-                Console.WriteLine("yes {0}", input.ToLower());
+                Console.WriteLine("yes {0}", input);
             }
             else
             {
-                Console.WriteLine("no {0}", input.ToUpper());
+                Console.WriteLine("no {0}", input);
             }
         }
     }

@@ -31,18 +31,18 @@ class MinMaxSumAverage
             
             int n = int.Parse(Console.ReadLine());
 
-            BigInteger sum = 0;
-            float avg = 0f;
+            double sum = 0;
+            double avg = 0;
 
             //read the first number and initialize min and max to it
-            int num = int.Parse(Console.ReadLine());
-            int min = num;
-            int max = num;
+            double num = double.Parse(Console.ReadLine());
+            double min = num;
+            double max = num;
             sum += num;
 
             for (int i = 0; i < n-1; i++)
             {
-                num = int.Parse(Console.ReadLine());
+                num = double.Parse(Console.ReadLine());
                 if (num < min)
                 {
                     min = num;
@@ -54,11 +54,11 @@ class MinMaxSumAverage
                 sum += num;
             }
 
-            avg = (float) sum / n;
+            avg =  sum / n;
 
-            Console.WriteLine("min={0:f2}", min);
-            Console.WriteLine("max={0:f2}", max);
-            Console.WriteLine("sum={0:f2}", sum);
-            Console.WriteLine("avg={0:f2}", avg);
+            Console.WriteLine("min={0:F2}", min);
+            Console.WriteLine("max={0:F2}", max);
+            Console.WriteLine("sum={0:F2}", sum);
+            Console.WriteLine("avg={0:F2}", avg);
         }
 }

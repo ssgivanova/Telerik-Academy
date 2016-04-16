@@ -60,6 +60,6 @@ class HexToDecimal
         }
         Console.WriteLine(decimalNumber);
 
-        Console.WriteLine(long.MaxValue);
+        //Console.WriteLine(long.MaxValue);
     }
 }
