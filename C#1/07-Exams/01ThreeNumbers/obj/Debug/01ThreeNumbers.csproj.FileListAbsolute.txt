@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01ThreeNumbers\bin\Debug\01ThreeNumbers.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01ThreeNumbers\bin\Debug\01ThreeNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01ThreeNumbers\bin\Debug\01ThreeNumbers.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01ThreeNumbers\obj\Debug\01ThreeNumbers.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01ThreeNumbers\obj\Debug\01ThreeNumbers.pdb

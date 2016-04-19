@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Money\bin\Debug\01Money.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Money\bin\Debug\01Money.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Money\bin\Debug\01Money.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Money\obj\Debug\01Money.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Money\obj\Debug\01Money.pdb
