@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03ConsoleApp1\bin\Debug\03ConsoleApp1.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03ConsoleApp1\bin\Debug\03ConsoleApp1.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03ConsoleApp1\bin\Debug\03ConsoleApp1.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03ConsoleApp1\obj\Debug\03ConsoleApp1.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03ConsoleApp1\obj\Debug\03ConsoleApp1.pdb

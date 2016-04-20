@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01AmericanPie\bin\Debug\01AmericanPie.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01AmericanPie\bin\Debug\01AmericanPie.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01AmericanPie\bin\Debug\01AmericanPie.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01AmericanPie\obj\Debug\01AmericanPie.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01AmericanPie\obj\Debug\01AmericanPie.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01AmericanPie\obj\Debug\01AmericanPie.pdb

@@ -1,0 +1,6 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SearchInBits\bin\Debug\05SearchInBits.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SearchInBits\bin\Debug\05SearchInBits.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SearchInBits\bin\Debug\05SearchInBits.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SearchInBits\obj\Debug\05SearchInBits.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SearchInBits\obj\Debug\05SearchInBits.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SearchInBits\obj\Debug\05SearchInBits.pdb

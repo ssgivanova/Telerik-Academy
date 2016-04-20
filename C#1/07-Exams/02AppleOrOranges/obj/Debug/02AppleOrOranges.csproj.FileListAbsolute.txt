@@ -1,0 +1,5 @@
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AppleOrOranges\bin\Debug\02AppleOrOranges.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AppleOrOranges\bin\Debug\02AppleOrOranges.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AppleOrOranges\bin\Debug\02AppleOrOranges.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AppleOrOranges\obj\Debug\02AppleOrOranges.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AppleOrOranges\obj\Debug\02AppleOrOranges.pdb
