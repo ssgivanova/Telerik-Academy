@@ -3,7 +3,14 @@ class SearchInBits
     {
         static void Main()
         {
-            /*
+
+            int s = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
+
+
+
+
+            /* STRING SOLUTION
             int s = int.Parse(Console.ReadLine());
             int n = int.Parse(Console.ReadLine());
 
@@ -25,7 +32,7 @@ class SearchInBits
             }
             Console.WriteLine(count);
              * */
-
+            /*
             const int NumberBits = 30;
             const int SearchBits = 4;
 
@@ -66,6 +73,6 @@ class SearchInBits
                 }
             }
 
-            Console.WriteLine(count);
+            Console.WriteLine(count);*/
         }
     }
