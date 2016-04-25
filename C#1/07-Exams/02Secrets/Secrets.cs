@@ -69,12 +69,17 @@ class Secrets
        for (int i = 1; i < length; i++)
        {
            letter ++;
-           if (letter > 'Z') //'Z'=90
+           //if (letter > 'Z') //'Z'=90
+           //{
+           //    //"out of the alphabet" - first start again from A : remove the ascci code of Z (90)
+           //    //so the index of the next letter is 1, and then add again 'A'
+           //    letter = (char)(letter - 'Z');
+           //    letter = (char)(letter + 'A' - 1);
+           //}
+
+           if (letter == 'Z') //'Z'=90
            {
-               //"out of the alphabet" - first start again from A : remove the ascci code of Z (90)
-               //so the index of the next letter is 1, and then add again 'A'
-               letter = (char)(letter - 'Z');
-               letter = (char)(letter + 'A' - 1);
+              letter = 'A';
            }
            result += letter;
        }

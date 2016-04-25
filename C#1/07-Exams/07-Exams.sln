@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02DrunkenNumbers", "02Drunk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Secrets", "02Secrets\02Secrets.csproj", "{4EFA4095-C78E-40B4-AB35-6E205BE35CA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Xpression_2", "03Xpression_2\03Xpression_2.csproj", "{963FE1BE-87A9-422B-BCB0-F112FDA84E4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -199,6 +201,10 @@ Global
 		{4EFA4095-C78E-40B4-AB35-6E205BE35CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EFA4095-C78E-40B4-AB35-6E205BE35CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EFA4095-C78E-40B4-AB35-6E205BE35CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963FE1BE-87A9-422B-BCB0-F112FDA84E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963FE1BE-87A9-422B-BCB0-F112FDA84E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963FE1BE-87A9-422B-BCB0-F112FDA84E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963FE1BE-87A9-422B-BCB0-F112FDA84E4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
