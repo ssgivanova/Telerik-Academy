@@ -5,7 +5,62 @@ class SequenceOfBits
         static void Main()
         {
             int n = int.Parse(Console.ReadLine());
-            
+            int maxZeros = 0;
+            int maxOnes = 0;
+            int currentZeros = 0;
+            int currentOnes = 0;
+            int lastBit = 5;
+            int bit = -1;
+
+            for (int i = 0; i < n; i++)
+            {
+                int currentNumber = int.Parse(Console.ReadLine());
+
+                for (int p = 29; p >= 0; p--)
+                {
+                    int mask = 1 << p;
+                    bit = (mask & currentNumber) >> p;
+
+                    if (bit == 1)
+                    {
+                        if (lastBit == 1)
+                        {
+                            currentOnes++;
+                        }
+                        else
+                        {
+                            currentOnes = 1;
+                        }
+
+                        maxOnes = Math.Max(maxOnes, currentOnes);
+                    }
+                    else
+                    {
+                        if (lastBit == 0)
+                        {
+                            currentZeros++;
+                            maxZeros = Math.Max(maxZeros, currentZeros);
+                        }
+                        else
+                        {
+                            currentZeros = 1;
+                        }
+
+                        maxZeros = Math.Max(maxZeros, currentZeros);
+                    }
+
+                    lastBit = bit;
+                }
+            }
+
+            Console.WriteLine(maxZeros);
+            Console.WriteLine(maxOnes);
+
+
+
+            /*
+            int n = int.Parse(Console.ReadLine());
+
             int countOnes = 0;
             int countZeros = 0;
 
@@ -14,14 +69,14 @@ class SequenceOfBits
 
             int lastBit = -1;
 
-            // FIRST SOLUTION - WITH BITWISE OPERATIONS 
+            // FIRST SOLUTION - WITH BITWISE OPERATIONS  - not correct
 
             for (int i = 0; i < n; i++)
             {
                 int num = int.Parse(Console.ReadLine());
                 //get the most right 30 bits
 
-                for (int p=29; p>=0; p--)
+                for (int p = 29; p >= 0; p--)
                 {
                     //get bit at each position
                     int bit = ((1 << p) & num) >> p;
@@ -33,7 +88,7 @@ class SequenceOfBits
                         {
                             countOnes++;
                         }
-                        else //lastBit = 0
+                        else //lastBit = -1
                         {
                             countOnes = 1;
                         }
@@ -49,7 +104,7 @@ class SequenceOfBits
                         {
                             countZeros++;
                         }
-                        else //lastBit = 1
+                        else //lastBit = -1
                         {
                             countZeros = 1;
                         }
@@ -59,11 +114,12 @@ class SequenceOfBits
                             maxZeros = countZeros;
                         }
                     }
-                    lastBit = bit;     
+                    lastBit = bit;
                 }
             }
             Console.WriteLine(countZeros);
             Console.WriteLine(countOnes);
+             * */
 
 
 

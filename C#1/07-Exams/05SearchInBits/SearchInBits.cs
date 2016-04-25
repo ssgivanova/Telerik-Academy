@@ -3,9 +3,47 @@ class SearchInBits
     {
         static void Main()
         {
+            //not working correctly
 
             int s = int.Parse(Console.ReadLine());
             int n = int.Parse(Console.ReadLine());
+
+            int nbrBitsN = 30;
+            int nbrBitsS = 4;
+
+            int count = 0;
+            int posN =0;
+            int posS= 0;
+
+            for (int i = 0; i < n; i++)
+            {
+                int num = int.Parse(Console.ReadLine());
+
+                for (int p = 0; p <= nbrBitsN - nbrBitsS ; p++)
+                {
+                    //for (int k = p; k <= p+3; k++)
+                    bool match = true;
+                    for (int k = 0; k < nbrBitsS; k++)
+                    {
+                        posN = p + k;
+                        posS = k;
+
+                        int bitN = ((1 << posN) & num) >> posN;
+                        int bitS = ((1 << posS) & s) >> posS;
+
+                        if (bitN != bitS)
+                        {
+                            match = false;
+                            break;
+                        }
+                        if(match)
+                        {
+                            count++;
+                        }
+                    }
+                }
+            }
+            Console.WriteLine(count);
 
 
 
