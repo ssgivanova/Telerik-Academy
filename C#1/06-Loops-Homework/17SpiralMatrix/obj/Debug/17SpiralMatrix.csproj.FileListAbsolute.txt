@@ -1,1 +1,6 @@
 D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\17SpiralMatrix\bin\Debug\17SpiralMatrix.exe.config
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\17SpiralMatrix\bin\Debug\17SpiralMatrix.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\17SpiralMatrix\bin\Debug\17SpiralMatrix.pdb
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\17SpiralMatrix\obj\Debug\17SpiralMatrix.csprojResolveAssemblyReference.cache
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\17SpiralMatrix\obj\Debug\17SpiralMatrix.exe
+D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\17SpiralMatrix\obj\Debug\17SpiralMatrix.pdb
