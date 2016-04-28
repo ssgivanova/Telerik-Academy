@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02Decoding\bin\Debug\02Decoding.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02Decoding\bin\Debug\02Decoding.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02Decoding\bin\Debug\02Decoding.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02Decoding\obj\Debug\02Decoding.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02Decoding\obj\Debug\02Decoding.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02Decoding\obj\Debug\02Decoding.pdb

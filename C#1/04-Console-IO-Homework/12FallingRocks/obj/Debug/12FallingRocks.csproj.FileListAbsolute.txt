@@ -1,1 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\12FallingRocks\bin\Debug\12FallingRocks.exe.config

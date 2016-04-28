@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SequenceOfBits\bin\Debug\05SequenceOfBits.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SequenceOfBits\bin\Debug\05SequenceOfBits.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SequenceOfBits\bin\Debug\05SequenceOfBits.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SequenceOfBits\obj\Debug\05SequenceOfBits.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SequenceOfBits\obj\Debug\05SequenceOfBits.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\05SequenceOfBits\obj\Debug\05SequenceOfBits.pdb

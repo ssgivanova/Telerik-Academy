@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\01OddOrEven\bin\Debug\01OddOrEven.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\01OddOrEven\bin\Debug\01OddOrEven.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\01OddOrEven\bin\Debug\01OddOrEven.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\01OddOrEven\obj\Debug\01OddOrEven.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\01OddOrEven\obj\Debug\01OddOrEven.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\01OddOrEven\obj\Debug\01OddOrEven.pdb

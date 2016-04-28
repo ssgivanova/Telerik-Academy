@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AngryFemaleGPS\bin\Debug\02AngryFemaleGPS.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AngryFemaleGPS\bin\Debug\02AngryFemaleGPS.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AngryFemaleGPS\bin\Debug\02AngryFemaleGPS.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AngryFemaleGPS\obj\Debug\02AngryFemaleGPS.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\02AngryFemaleGPS\obj\Debug\02AngryFemaleGPS.pdb

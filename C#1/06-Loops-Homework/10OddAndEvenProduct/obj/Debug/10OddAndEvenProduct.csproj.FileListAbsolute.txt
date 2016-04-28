@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.pdb

@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\01Sum3Numbers\bin\Debug\01Sum3Numbers.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\01Sum3Numbers\bin\Debug\01Sum3Numbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\01Sum3Numbers\bin\Debug\01Sum3Numbers.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\01Sum3Numbers\obj\Debug\01Sum3Numbers.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\01Sum3Numbers\obj\Debug\01Sum3Numbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\01Sum3Numbers\obj\Debug\01Sum3Numbers.pdb

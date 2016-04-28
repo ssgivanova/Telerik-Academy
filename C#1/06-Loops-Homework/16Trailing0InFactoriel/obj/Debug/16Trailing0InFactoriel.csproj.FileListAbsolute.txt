@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\16Trailing0InFactoriel\bin\Debug\16Trailing0InFactoriel.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\16Trailing0InFactoriel\bin\Debug\16Trailing0InFactoriel.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\16Trailing0InFactoriel\bin\Debug\16Trailing0InFactoriel.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\16Trailing0InFactoriel\obj\Debug\16Trailing0InFactoriel.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\16Trailing0InFactoriel\obj\Debug\16Trailing0InFactoriel.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\16Trailing0InFactoriel\obj\Debug\16Trailing0InFactoriel.pdb

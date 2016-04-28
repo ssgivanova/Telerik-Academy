@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Printing\bin\Debug\01Printing.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Printing\bin\Debug\01Printing.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Printing\bin\Debug\01Printing.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Printing\obj\Debug\01Printing.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Printing\obj\Debug\01Printing.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Printing\obj\Debug\01Printing.pdb

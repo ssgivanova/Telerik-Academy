@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\14HexToDecimal\bin\Debug\14HexToDecimal.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\14HexToDecimal\bin\Debug\14HexToDecimal.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\14HexToDecimal\bin\Debug\14HexToDecimal.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\14HexToDecimal\obj\Debug\14HexToDecimal.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\14HexToDecimal\obj\Debug\14HexToDecimal.pdb

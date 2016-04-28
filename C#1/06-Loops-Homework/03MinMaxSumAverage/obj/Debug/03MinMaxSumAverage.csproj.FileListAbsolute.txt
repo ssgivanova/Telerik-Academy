@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.pdb

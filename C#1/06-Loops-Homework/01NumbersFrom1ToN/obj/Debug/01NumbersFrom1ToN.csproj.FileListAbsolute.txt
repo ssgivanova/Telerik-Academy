@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\01NumbersFrom1ToN\bin\Debug\01NumbersFrom1ToN.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\01NumbersFrom1ToN\bin\Debug\01NumbersFrom1ToN.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\01NumbersFrom1ToN\bin\Debug\01NumbersFrom1ToN.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\01NumbersFrom1ToN\obj\Debug\01NumbersFrom1ToN.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\01NumbersFrom1ToN\obj\Debug\01NumbersFrom1ToN.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\01NumbersFrom1ToN\obj\Debug\01NumbersFrom1ToN.pdb

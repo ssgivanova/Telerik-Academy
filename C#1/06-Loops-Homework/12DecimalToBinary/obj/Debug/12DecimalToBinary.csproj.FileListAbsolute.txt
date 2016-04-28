@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\12DecimalToBinary\bin\Debug\12DecimalToBinary.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\12DecimalToBinary\bin\Debug\12DecimalToBinary.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\12DecimalToBinary\bin\Debug\12DecimalToBinary.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\12DecimalToBinary\obj\Debug\12DecimalToBinary.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\12DecimalToBinary\obj\Debug\12DecimalToBinary.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\12DecimalToBinary\obj\Debug\12DecimalToBinary.pdb

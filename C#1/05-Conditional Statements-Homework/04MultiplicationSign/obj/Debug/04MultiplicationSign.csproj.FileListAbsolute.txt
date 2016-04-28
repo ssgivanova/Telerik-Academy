@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb

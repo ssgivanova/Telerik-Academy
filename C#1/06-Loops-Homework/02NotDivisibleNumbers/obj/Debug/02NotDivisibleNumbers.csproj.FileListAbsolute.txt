@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\02NotDivisibleNumbers\bin\Debug\02NotDivisibleNumbers.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\02NotDivisibleNumbers\bin\Debug\02NotDivisibleNumbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\02NotDivisibleNumbers\bin\Debug\02NotDivisibleNumbers.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\02NotDivisibleNumbers\obj\Debug\02NotDivisibleNumbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\02NotDivisibleNumbers\obj\Debug\02NotDivisibleNumbers.pdb

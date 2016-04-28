@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\01ExchangeNumbers\bin\Debug\01ExchangeNumbers.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\01ExchangeNumbers\bin\Debug\01ExchangeNumbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\01ExchangeNumbers\bin\Debug\01ExchangeNumbers.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\01ExchangeNumbers\obj\Debug\01ExchangeNumbers.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\01ExchangeNumbers\obj\Debug\01ExchangeNumbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\01ExchangeNumbers\obj\Debug\01ExchangeNumbers.pdb

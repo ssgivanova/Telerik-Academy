@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\04PrintDeck\bin\Debug\04PrintDeck.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\04PrintDeck\bin\Debug\04PrintDeck.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\04PrintDeck\bin\Debug\04PrintDeck.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\04PrintDeck\obj\Debug\04PrintDeck.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\04PrintDeck\obj\Debug\04PrintDeck.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\04PrintDeck\obj\Debug\04PrintDeck.csprojResolveAssemblyReference.cache

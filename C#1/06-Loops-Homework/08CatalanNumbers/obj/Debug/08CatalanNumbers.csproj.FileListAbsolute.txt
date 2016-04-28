@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\08CatalanNumbers\bin\Debug\08CatalanNumbers.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\08CatalanNumbers\obj\Debug\08CatalanNumbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\08CatalanNumbers\obj\Debug\08CatalanNumbers.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\08CatalanNumbers\obj\Debug\08CatalanNumbers.csprojResolveAssemblyReference.cache

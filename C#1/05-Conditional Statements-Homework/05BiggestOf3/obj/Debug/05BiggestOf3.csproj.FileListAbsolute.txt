@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\05BiggestOf3\bin\Debug\05BiggestOf3.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\05BiggestOf3\bin\Debug\05BiggestOf3.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\05BiggestOf3\bin\Debug\05BiggestOf3.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\05BiggestOf3\obj\Debug\05BiggestOf3.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\05BiggestOf3\obj\Debug\05BiggestOf3.pdb

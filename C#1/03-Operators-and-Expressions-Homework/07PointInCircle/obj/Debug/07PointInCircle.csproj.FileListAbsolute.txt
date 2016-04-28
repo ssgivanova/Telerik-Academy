@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\07PointInCircle\bin\Debug\07PointInCircle.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\07PointInCircle\bin\Debug\07PointInCircle.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\07PointInCircle\bin\Debug\07PointInCircle.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\07PointInCircle\obj\Debug\07PointInCircle.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\07PointInCircle\obj\Debug\07PointInCircle.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\07PointInCircle\obj\Debug\07PointInCircle.csprojResolveAssemblyReference.cache

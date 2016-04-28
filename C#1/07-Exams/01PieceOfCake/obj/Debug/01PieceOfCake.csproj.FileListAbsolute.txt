@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01PieceOfCake\bin\Debug\01PieceOfCake.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01PieceOfCake\bin\Debug\01PieceOfCake.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01PieceOfCake\bin\Debug\01PieceOfCake.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01PieceOfCake\obj\Debug\01PieceOfCake.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01PieceOfCake\obj\Debug\01PieceOfCake.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01PieceOfCake\obj\Debug\01PieceOfCake.pdb

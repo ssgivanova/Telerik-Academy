@@ -1,1 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\02-Data-Types-and-Variables\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config

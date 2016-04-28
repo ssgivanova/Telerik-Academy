@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\04Rectangles\bin\Debug\04Rectangles.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\04Rectangles\bin\Debug\04Rectangles.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\04Rectangles\bin\Debug\04Rectangles.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\04Rectangles\obj\Debug\04Rectangles.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\04Rectangles\obj\Debug\04Rectangles.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\04Rectangles\obj\Debug\04Rectangles.csprojResolveAssemblyReference.cache

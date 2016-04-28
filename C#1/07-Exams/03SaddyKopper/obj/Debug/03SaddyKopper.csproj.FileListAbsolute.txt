@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03SaddyKopper\bin\Debug\03SaddyKopper.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03SaddyKopper\bin\Debug\03SaddyKopper.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03SaddyKopper\bin\Debug\03SaddyKopper.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03SaddyKopper\obj\Debug\03SaddyKopper.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03SaddyKopper\obj\Debug\03SaddyKopper.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03SaddyKopper\obj\Debug\03SaddyKopper.csprojResolveAssemblyReference.cache

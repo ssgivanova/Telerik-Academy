@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03Maslan-Author\bin\Debug\03Maslan-Author.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03Maslan-Author\bin\Debug\03Maslan-Author.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03Maslan-Author\bin\Debug\03Maslan-Author.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03Maslan-Author\obj\Debug\03Maslan-Author.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03Maslan-Author\obj\Debug\03Maslan-Author.pdb

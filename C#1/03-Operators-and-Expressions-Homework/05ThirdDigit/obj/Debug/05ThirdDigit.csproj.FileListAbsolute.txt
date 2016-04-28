@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\05ThirdDigit\bin\Debug\05ThirdDigit.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\05ThirdDigit\bin\Debug\05ThirdDigit.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\05ThirdDigit\bin\Debug\05ThirdDigit.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\05ThirdDigit\obj\Debug\05ThirdDigit.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\05ThirdDigit\obj\Debug\05ThirdDigit.pdb

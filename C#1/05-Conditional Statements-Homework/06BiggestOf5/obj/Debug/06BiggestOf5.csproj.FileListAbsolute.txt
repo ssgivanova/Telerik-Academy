@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\06BiggestOf5\bin\Debug\06BiggestOf5.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\06BiggestOf5\bin\Debug\06BiggestOf5.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\06BiggestOf5\bin\Debug\06BiggestOf5.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\06BiggestOf5\obj\Debug\06BiggestOf5.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\06BiggestOf5\obj\Debug\06BiggestOf5.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\06BiggestOf5\obj\Debug\06BiggestOf5.csprojResolveAssemblyReference.cache

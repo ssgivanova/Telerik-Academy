@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\03Circle\bin\Debug\03Circle.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\03Circle\bin\Debug\03Circle.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\03Circle\bin\Debug\03Circle.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\03Circle\obj\Debug\03Circle.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\03Circle\obj\Debug\03Circle.pdb

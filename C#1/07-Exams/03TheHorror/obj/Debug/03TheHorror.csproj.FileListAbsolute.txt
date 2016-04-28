@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03TheHorror\bin\Debug\03TheHorror.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03TheHorror\bin\Debug\03TheHorror.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03TheHorror\bin\Debug\03TheHorror.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03TheHorror\obj\Debug\03TheHorror.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\03TheHorror\obj\Debug\03TheHorror.pdb

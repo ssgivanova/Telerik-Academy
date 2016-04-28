@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\08PrimeCheck\bin\Debug\08PrimeCheck.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\08PrimeCheck\bin\Debug\08PrimeCheck.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\08PrimeCheck\bin\Debug\08PrimeCheck.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\08PrimeCheck\obj\Debug\08PrimeCheck.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\08PrimeCheck\obj\Debug\08PrimeCheck.pdb

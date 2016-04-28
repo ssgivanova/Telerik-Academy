@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\08DigitAsWord\bin\Debug\08DigitAsWord.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\08DigitAsWord\obj\Debug\08DigitAsWord.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\08DigitAsWord\obj\Debug\08DigitAsWord.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\05-Conditional Statements-Homework\08DigitAsWord\obj\Debug\08DigitAsWord.pdb

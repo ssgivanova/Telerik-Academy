@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\11ThirdBit\bin\Debug\11ThirdBit.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\11ThirdBit\bin\Debug\11ThirdBit.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\11ThirdBit\bin\Debug\11ThirdBit.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\11ThirdBit\obj\Debug\11ThirdBit.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\11ThirdBit\obj\Debug\11ThirdBit.pdb

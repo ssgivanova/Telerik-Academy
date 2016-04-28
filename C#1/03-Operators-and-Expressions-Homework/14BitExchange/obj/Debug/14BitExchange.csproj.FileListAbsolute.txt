@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\14BitExchange\bin\Debug\14BitExchange.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\14BitExchange\bin\Debug\14BitExchange.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\14BitExchange\bin\Debug\14BitExchange.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\14BitExchange\obj\Debug\14BitExchange.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\14BitExchange\obj\Debug\14BitExchange.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\03-Operators-and-Expressions-Homework\14BitExchange\obj\Debug\14BitExchange.csprojResolveAssemblyReference.cache

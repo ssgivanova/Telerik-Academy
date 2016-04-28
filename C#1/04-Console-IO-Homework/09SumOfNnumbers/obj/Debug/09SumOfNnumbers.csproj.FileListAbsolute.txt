@@ -1,5 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\09SumOfNnumbers\bin\Debug\09SumOfNnumbers.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\09SumOfNnumbers\bin\Debug\09SumOfNnumbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\09SumOfNnumbers\bin\Debug\09SumOfNnumbers.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\09SumOfNnumbers\obj\Debug\09SumOfNnumbers.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\04-Console-IO-Homework\09SumOfNnumbers\obj\Debug\09SumOfNnumbers.pdb

@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Task248\bin\Debug\01Task248.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Task248\bin\Debug\01Task248.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Task248\bin\Debug\01Task248.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Task248\obj\Debug\01Task248.csprojResolveAssemblyReference.cache
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Task248\obj\Debug\01Task248.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\07-Exams\01Task248\obj\Debug\01Task248.pdb

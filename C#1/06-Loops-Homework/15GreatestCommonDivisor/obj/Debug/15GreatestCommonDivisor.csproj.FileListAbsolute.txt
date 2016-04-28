@@ -1,6 +1,0 @@
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\15GreatestCommonDivisor\bin\Debug\15GreatestCommonDivisor.exe.config
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\15GreatestCommonDivisor\bin\Debug\15GreatestCommonDivisor.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\15GreatestCommonDivisor\bin\Debug\15GreatestCommonDivisor.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\15GreatestCommonDivisor\obj\Debug\15GreatestCommonDivisor.exe
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\15GreatestCommonDivisor\obj\Debug\15GreatestCommonDivisor.pdb
-D:\PROJECTS_2016\Telerik-Academy\C#1\06-Loops-Homework\15GreatestCommonDivisor\obj\Debug\15GreatestCommonDivisor.csprojResolveAssemblyReference.cache
