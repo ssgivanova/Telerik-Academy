@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>University Grid</title>
+	</head>
+	<body>
+		<form name ="registration" method = "get" action="send.php">
+			<table border ="1" cellspacing = "0" style="width: 400px;">
+				<tr>
+					<th>Last Name</th>
+					<td><input type="text" name="lastName" style="width: 220px;"/></td>
+				</tr>
+				<tr>
+					<th>First Name</th>
+					<td><input type="text" name="firstName" style="width: 220px;"/></td>
+				</tr>
+				<tr>
+					<th>Address</th>
+					<td><textarea name="address" style="width: 220px;"></textarea></td>
+				</tr>
+				<tr>
+					<th>City</th>
+					<td><input type="text" name="city" style="width: 140px;"/>
+						State &nbsp;<input type="text" name="state" style="width: 50px;"/>
+					</td>
+				</tr>
+				<tr>
+					<th>ZIP/Postal Code</th>
+					<td><input type="number" name="zip" style="width: 80px;"/></td>
+				</tr>
+				<tr>
+					<th>Country</th>
+					<td><select type="countryDropDown" style="width: 160px;">
+							<option value="Bulgaria" selected="selected">Bulgaria</option>
+							<option value="France">France</option>
+							<option value="Germany">Germany</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<th>Phone(country code,<br>
+					area code, number)</th>
+					<td>(+<input type="number" name="countryCode" style="width: 50px;"/>)
+						<input type="number" name="areaCode" style="width: 50px;"/>
+						<input type="number" name="phone" style="width: 85px;"/></td>
+				</tr>
+				<tr>
+					<th>E-mail </th>
+					<td><input type="email" name="email" style="width: 220px;"/></td>
+				</tr>
+				<tr>
+					<th>Birth Date </th>
+					<td><input type="text" name="birthday" value="DD.MM.YYYY" style="width: 180px;"/></td>
+				</tr>
+				<tr>
+					<th>Gender</th>
+					<td><select type="genderList" style="width: 70px;" >
+							<option value="Male" selected="selected">Male</option>
+							<option value="Female">Female</option>
+							<option value="Not specified">Not specified</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<th>Starting Date</th>
+					<td><input type="radio" name="starting" value="Spring 2015"/>Spring 2015
+						<input type="radio" name="starting" value="Summer 2015"/>Summer 2015
+					</td>
+				</tr>
+				<tr>
+					<th>Comments/Questions</th>
+					<td><textarea name="comments" style="width: 220px; height:160px" >
+						</textarea>
+					</td>
+				</tr>
+				<tr>
+					<td colspan ="2" align="center" bgcolor="cyan" >
+						<input type="submit" name="submitBtn" alt="submit" value="Submit"/>
+						<input type="reset" name="resetBtn" alt="reset"value="Clean this form"/>
+					</td>
+				</tr>
+			</table>
+			
+		</form>
+	</body>
+<html>

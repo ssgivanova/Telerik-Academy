@@ -1,0 +1,61 @@
+.buttonA, .buttonB,.buttonC,.buttonD,.result, #zero
+{
+	font-family: "Comic Sans MS", Arial, Helvetica, sans-serif; 
+	text-shadow:2px 2px 1px #98A5A4;
+	font-size: 38px; 
+	font-weight: bold; 
+	color: cyan;
+	border: cyan;
+	border-style: solid;
+	border-width: 2px;
+	background: white;
+}
+.result
+{
+	height:66px;
+    width:302px;
+	vertical-align: bottom;
+    text-align: right;
+    padding-bottom: 5px; 
+    padding-right: 20px; 
+	margin: -3px;
+	box-sizing: border-box;
+}
+
+.buttonA, .buttonB, .buttonC, .buttonD
+{
+    width:77px;
+    text-align: center;
+    vertical-align: text-top;
+    margin-left: -3px;
+    margin-right: -3px;
+    padding-bottom: 10px;
+}
+
+.buttonA
+{
+	height:77px;
+    margin-top: 0px;
+}
+.buttonB
+{
+	height:78px;
+    margin-top: -2px;
+}
+.buttonC
+{
+	height:79px;
+    margin-top: -3px;
+}
+.buttonD
+{
+	height:80px;
+    margin-top: -4px;
+}
+
+#zero
+{
+    width:152px;
+}
+
+

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <title>Registration form</title>
+    <style>
+        .form {
+            margin-left: 3%;
+            border-collapse: collapse;
+            border: 1px solid gray
+        }
+        .send {
+            text-align: center;
+            background-color: skyblue;
+        }
+        td,th  { 
+            border: 1px solid gray ;
+        }
+    </style>
+    
+</head>
+<body>
+    <h1>Problem 1. Registration form</h1>
+        <form action="#" method="post">
+            <table class="form">
+                <tfoot>
+                    <tr>
+                        <td class="send" colspan="2">
+                            <input type="submit" value= "Submit"/>
+                            <input type="reset" value="Clean this form">
+
+                        </td>
+                    </tr>
+                </tfoot>
+                <tbody>
+					<tr>
+						<th id="lame">Last Name</th>
+                        <td><input type="text" id="lname"  name="lname" value="" size="30" required/></td>
+					</tr>
+					<tr>
+						<th> First Name</th>
+						<td>
+							<input type="text" id="fname" name ="fname" value="" size="30" required />
+						</td>
+					</tr>
+					<tr>
+						<th> Address</th>
+						<td>
+							<textarea id="address" name="address" rows="5" cols="27"> </textarea> 
+						</td>
+					</tr>
+					<tr>
+						<th>City</th>
+                        <td>
+                            <input type="text" name="sity" value="" size="20"/>
+                            State
+                            <input type="text" name="state" value="" size="2" />
+                        </td>
+					</tr>
+					<tr>
+						<th> Zip/Postal Code</th>
+						<td>
+							<input type="text" id="zip" name ="zip" value="" size="6" />
+						</td>
+					</tr>
+					<tr>
+                        <th>Coutry</th>
+                        <td>
+                            <select>
+                                <option>Albaniq</option>
+                                <option>Afghanistan</option>
+                                <option>Albania</option>
+                                <option>Algeria</option>
+                                <option>Andorra</option>
+                                <option>Angola</option>
+                                <option>Antigua and Barbuda</option>
+                                <option>Argentina</option>
+                                <option>Armenia</option>
+                                <option>Aruba</option>
+                                <option>Australia</option>
+                                <option>Austria</option>
+                                <option>Azerbaijan</option>
+                                <option>Bahamas</option>
+                                <option>Bahrain</option>
+                                <option>Bangladesh</option>
+                                <option>Barbados</option>
+                                <option>Belarus</option>
+                                <option>Belgium</option>
+                                <option>Belize</option>
+                                <option>Benin</option>
+                                <option>Bhutan</option>
+                                <option>Bolivia</option>
+                                <option>Bosnia and Herzegovina</option>
+                                <option>Botswana</option>
+                                <option>Brazil</option>
+                                <option>Brunei</option>
+                                <option selected>Bulgaria</option>
+                                <option>Burkina Faso</option>
+                                <option>Burma</option>
+                                <option>Burundi</option>
+                            </select>
+                        </td>
+                    </tr>
+					<tr>
+						<th> Phone (country code,<br/>areacode, number)</th>
+						<td>
+						(+<input type="tel" id="c-code" name ="c-code" value="" size="3" />)
+						<input type="tel" id="a-code" name ="a-code" value="" size="3" />
+						<input type="tel" id="number" name ="number" value="" size="9" />
+						</td>
+					</tr>
+                    <tr>
+                        <th>E-mail</th>
+                        <td>
+                        <input type="email" id="email" name="email" size="30" required pattern="[a-zA-Z0-9._\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,4}"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Birth date</th>
+                        <td>
+                            <input type="text" name="birth" value="הה.לל.דדדד ד." size="20"/>
+                           
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Gender</th>
+                        <td>
+                            <select>
+                                <option placeholder>Male</option>
+                                <option>Female</option>
+                                <option>Other</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Starting Date</th>
+                        <td>
+                        <input type="radio" name="start-date" value="spring-2015"/><label>Spring 2015</label>
+                        <input type="radio" name="start-date" value="summer-2015"/><label>Summer 2015</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th> Comments/Questions</th>
+                        <td>
+                            <textarea id="comments" name="comments" rows="8" cols="28"> </textarea> 
+                        </td>
+                    </tr>
+				</tbody>
+			</table>
+		</form>
+</body>
+</html>
