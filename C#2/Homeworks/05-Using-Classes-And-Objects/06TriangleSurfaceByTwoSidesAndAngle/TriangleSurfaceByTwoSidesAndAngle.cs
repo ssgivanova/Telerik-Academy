@@ -28,7 +28,7 @@ class TriangleSurfaceByTwoSidesAndAngle
     {
         decimal b = decimal.Parse(Console.ReadLine());
         decimal c = decimal.Parse(Console.ReadLine());
-        int angle = int.Parse(Console.ReadLine());
+        decimal angle = decimal.Parse(Console.ReadLine());
 
         //angle in radians = angle in degrees * PI / 180
         decimal angleInRadians = (angle * (decimal)Math.PI) / 180.0m;
@@ -36,5 +36,7 @@ class TriangleSurfaceByTwoSidesAndAngle
         //SURFACE = (B * C * SIN A)/2;
         decimal surface = (b * c * (decimal)Math.Sin((double)angleInRadians))/2.0m;
         Console.WriteLine("{0:f2}", surface);
+
+        
     }
 }
