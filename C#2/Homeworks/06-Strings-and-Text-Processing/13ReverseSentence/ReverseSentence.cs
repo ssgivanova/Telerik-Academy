@@ -5,67 +5,83 @@ C# is not C++, not PHP and not Delphi! -> Delphi not and PHP, not C++ not is C#!
  * */
 
 using System;
+using System.Text;
 using System.Text.RegularExpressions;
+using System.Collections.Generic;
+
 class ReverseSentence
 {
    static void Main()
    {
-       string text = Console.ReadLine();
-       string reversed = "";
+       /*
+       string text1 = "C#   is not C++, not PHP and not Delphi!  Test 1, 2,3";
 
-       string[] words = text.Split(new char[] {' ',',','!' }, StringSplitOptions.RemoveEmptyEntries);
+       string regex = @"\s+|,\s*|\.\s*|!\s*|$";
 
-       string[] punctuation = new string[] { ".", ",", ":", "?", "!" };
+       var words = new Stack<string>();
 
-
-       //words
-       foreach (string item in words)
+       foreach (var word in Regex.Split(text, regex))
        {
-           Console.WriteLine(item);
+           if (!String.IsNullOrEmpty(word)) words.Push(word);
        }
 
-       //punctuation
-       Console.WriteLine();
-       foreach (string item in punctuation)
+       foreach (var separator in Regex.Matches(text1, regex))
        {
-           Console.WriteLine(item);
+           //Console.Write(words.Pop() + separator);
+           Console.WriteLine(separator);
        }
+       */
        
 
-       /*
-       int commaPosition = 0;
+       //string text = Console.ReadLine();
+       string text = "C# is not C++, not PHP and not Delphi!";
+       StringBuilder reversed = new StringBuilder();
 
-       //count comma position
-       foreach (string item in words)
+       string regex = @"\s+|,\s*|\.\s*|!\s*|$";
+
+       //split text by punctuation - > to obtain only the words
+       string[] words = text.Split(new char[] {' ',',','!' }, StringSplitOptions.RemoveEmptyEntries);
+       //string[] words = Regex.Split(text, regex);
+
+       //split text by words - > to obtain only the punctuation symbols
+       string[] punctuation = new string[] { " ", " ", " ", ", ", " ", " ", " ", " ","!"};
+
+       //string[] punctuation1 = Regex.Split(text, @"\w+");
+       //var punctuation1 = Regex.Matches(text, regex);
+
+       //for test
+       //int k = 0;
+       //foreach (var item in punctuation)
+       //{
+       //    Console.WriteLine("{0} - {1}",k,item);
+       //    k++;
+       //}
+       
+       Stack<string> wordsStack = new Stack<string>();
+
+       //words
+       foreach (string word in words)
        {
-           //Console.WriteLine(item);           
-           //if (item == string.Empty)
-           //{
-           //    break;
-           //}
-           //commaPosition++;
+           wordsStack.Push(word);
        }
-       Console.WriteLine(commaPosition);
 
-       int reversedCommaPosition = 0;
-       for (int i = words.Length-2;  i >=0;  i--)
+       //punctuation - doesn't work - incorrect number of elements
+       //foreach (Match symbol in punctuation1)
+       //{
+       //    while (punctuation1.Count >= 1)
+       //    {
+       //        reversed.Append(wordsStack.Pop() + symbol);
+       //    }
+       //}
+       //Console.WriteLine(reversed.ToString());
+
+       foreach (string symbol in punctuation)
        {
-           reversed += words[i];
-           reversedCommaPosition++;
-           if (reversedCommaPosition == commaPosition)
+           if (symbol != string.Empty)
            {
-               reversed += ",";
+               reversed.Append(wordsStack.Pop() + symbol);
            }
-           if (i > 0 && (words[i] != String.Empty))
-           {
-               reversed += " ";  // no additional space after the last word
-           }
-           
        }
-       reversed += "!";
-
-       Console.WriteLine(reversed);
-       */
-
+       Console.WriteLine(reversed.ToString());
    }
 }

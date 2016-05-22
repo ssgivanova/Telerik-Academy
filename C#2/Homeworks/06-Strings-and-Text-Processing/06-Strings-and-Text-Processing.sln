@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25ExtractTextFromHtml", "25
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00Test", "00Test\00Test.csproj", "{4A654202-9CC7-4810-AD4D-93275E320A32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ParseTags-2", "05ParseTags-2\05ParseTags-2.csproj", "{1959E833-514B-4413-9D9B-088AE92CE51C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +159,10 @@ Global
 		{4A654202-9CC7-4810-AD4D-93275E320A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A654202-9CC7-4810-AD4D-93275E320A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A654202-9CC7-4810-AD4D-93275E320A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1959E833-514B-4413-9D9B-088AE92CE51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1959E833-514B-4413-9D9B-088AE92CE51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1959E833-514B-4413-9D9B-088AE92CE51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1959E833-514B-4413-9D9B-088AE92CE51C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
