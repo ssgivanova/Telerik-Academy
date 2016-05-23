@@ -18,8 +18,8 @@
 * [Methods] (https://github.com/ssgivanova/Telerik-Academy/tree/master/C%232/Homeworks/03-Methods)
 * [Numeral Systems] (https://github.com/ssgivanova/Telerik-Academy/tree/master/C%232/Homeworks/04-Numeral-Systems)
 * [Using Classes And Objects](https://github.com/ssgivanova/Telerik-Academy/tree/master/C%232/Homeworks/05-Using-Classes-And-Objects)
-* [Strings and Text Processing]
-* [Exception Handling]
+* [Strings and Text Processing](https://github.com/ssgivanova/Telerik-Academy/tree/master/C%232/Homeworks/06-Strings-and-Text-Processing)
+* [Exception Handling](https://github.com/ssgivanova/Telerik-Academy/tree/master/C%232/Homeworks/07-Exception-Handling)
 * [Text Files]
 
 
