@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00Test", "00Test\00Test.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ParseTags-2", "05ParseTags-2\05ParseTags-2.csproj", "{1959E833-514B-4413-9D9B-088AE92CE51C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08ExtractSentences2", "08ExtractSentences2\08ExtractSentences2.csproj", "{98ED683F-BBB4-4966-A20E-823900B9D241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -163,6 +165,10 @@ Global
 		{1959E833-514B-4413-9D9B-088AE92CE51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1959E833-514B-4413-9D9B-088AE92CE51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1959E833-514B-4413-9D9B-088AE92CE51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98ED683F-BBB4-4966-A20E-823900B9D241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98ED683F-BBB4-4966-A20E-823900B9D241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98ED683F-BBB4-4966-A20E-823900B9D241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98ED683F-BBB4-4966-A20E-823900B9D241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
