@@ -20,12 +20,17 @@ Constraints
  * */
 
 using System;
+using System.Text.RegularExpressions;
+
 class ReplaceTags
 {
     static void Main()
     {
         string html = Console.ReadLine();
 
+        /*
+        //solution with indexOf
+         * 
         //first search
 
         int indexOpeningLinkTag = html.IndexOf("<a href=\"");
@@ -69,5 +74,17 @@ class ReplaceTags
         html = html.Replace("</a>", "]");
         
         Console.WriteLine(html);
+        */
+
+        //solution with regular expressions <a href =" ....text1 "> text2.... </a>->[text2...](text1...)
+        string pattern = "(<a href=\")(.*?)(\">)(.*?)(</a>)";
+        string replacement = "[$4]($2)";
+        string htmlClean = Regex.Replace(html, pattern, replacement);
+
+        Console.WriteLine(htmlClean);
+
+
+        //string parsedHTML = Regex.Replace(text, "(<a href=\")(.*?)(\">)(.*?)(</a>)", "[$4]($2)");
+
     }
 }

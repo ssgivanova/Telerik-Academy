@@ -8,6 +8,7 @@ class ExtractSentences2
 {
     static void Main()
     {
+        //100/100 bgcoder
         string pattern = Console.ReadLine();
         string text = Console.ReadLine();
 
@@ -18,7 +19,8 @@ class ExtractSentences2
 
         for (int i = 0; i < sentences.Length; i++)
         {
-            string currentSentence = sentences[i].ToLower().Trim();
+            string currentSentence = sentences[i].Trim();
+            //string currentSentence = sentences[i].ToLower().Trim();
             //Console.WriteLine(currentSentence.Trim());
 
             //split sentence by words - by non letter symbols
@@ -37,7 +39,7 @@ class ExtractSentences2
                 //    sb.Append(". ");
                 //    break;
                 //}
-                if (word == pattern.ToLower())
+                if (word.Equals(pattern)) //(word.Equals(pattern.ToLower()))
                 {
                     Console.Write(sentences[i].Trim() +". ");
                     break;

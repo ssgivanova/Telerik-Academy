@@ -17,15 +17,34 @@ Or  Exception  if the above inequality is not true
 
  * */
 
-using System;
+using System; // 80/100
+
+class NotIncreasingException : Exception
+{
+    private string message;
+
+    public NotIncreasingException()
+    {
+        //message = "Numbers are not increasing";
+
+        //for the condition for bgcoder it has to print : Exception
+        message = "Exception";
+    }
+
+    public override string Message
+    {
+        get { return message; }
+    }
+}
+
 class EnterNumbers
 {
     static void Main()
     {
-        int start = 0;
+        int start = 1;
         int end = 100;
 
-        int[]numbers = new int[10];
+        int[] numbers = new int[10];
         for (int i = 0; i < 10; i++)
         {
             try
@@ -60,7 +79,7 @@ class EnterNumbers
         }
     }
 
-    static bool CheckIncreasingNumbers(int[] numbers,int start, int end)
+    static bool CheckIncreasingNumbers(int[] numbers, int start, int end)
     {
         bool isInRange = false;
         bool isIncreasing = false;
@@ -73,9 +92,9 @@ class EnterNumbers
             isInRange = true;
         }
 
-        for (int i = 0; i < numbers.Length - 1; i++)
+        for (int i = 1; i < numbers.Length; i++)
         {
-            if (numbers[i] < numbers[i + 1])
+            if (numbers[i - 1] < numbers[i])
             {
                 isIncreasing = true;
             }
@@ -95,7 +114,7 @@ class EnterNumbers
 
     static void PrintSequence(int[] numbers)
     {
-        for (int i = 0; i < numbers.Length - 1; i++)
+        for (int i = 0; i < numbers.Length; i++)
         {
             Console.Write(numbers[i] + " < ");
         }

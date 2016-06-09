@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EnterNumbers.cs" />
-    <Compile Include="NotIncreasingException.cs" />
+    <Compile Include="NotIncreasingException1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

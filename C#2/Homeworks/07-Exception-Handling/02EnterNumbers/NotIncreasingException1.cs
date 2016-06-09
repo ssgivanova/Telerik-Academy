@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-class NotIncreasingException : Exception
+class NotIncreasingException1 : Exception
     {
         private string message;
 
-        public NotIncreasingException()
+        public NotIncreasingException1()
         {
             //message = "Numbers are not increasing";
 

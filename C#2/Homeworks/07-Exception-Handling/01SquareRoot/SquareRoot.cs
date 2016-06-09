@@ -26,13 +26,13 @@ class SquareRoot
 
         try
         {
-            int num = int.Parse(input);
+            double num = double.Parse(input);
             if (num < 0)
             {
                 throw new ArgumentOutOfRangeException("Invalid number");
             }
 
-            double squareRoot = Math.Sqrt((double)num);
+            double squareRoot = Math.Sqrt(num);
             Console.WriteLine("{0:f3}", squareRoot);
         }
         catch (ArgumentOutOfRangeException aore)
