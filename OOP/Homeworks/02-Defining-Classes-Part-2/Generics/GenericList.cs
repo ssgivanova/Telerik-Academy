@@ -15,6 +15,7 @@
     class GenericList<T> where T : IComparable
     {
         private int capacity;
+        private int count;
         private T[] elements;
 
         public GenericList(int capacity)
@@ -26,7 +27,7 @@
         public int Capacity
         {
             get { return this.capacity; }
-            set
+            private set
             {
                 if (value > 0)
                 {
@@ -35,82 +36,73 @@
             }
         }
 
+        public int Count
+        {
+            get { return this.Count; }
+            private set
+            {
+                if (value > 0)
+                {
+                    this.count = value;
+                }
+            }
+        }
+
         //Defining an indexer
-        public int this[int index]
+        public T this[int index]
         {
             get
             {
-                if(index < 0 || index > elements.Length)
+                if(index < 0 || index >= elements.Length)
                 {
                     throw new IndexOutOfRangeException(String.Format("The index {0} is invalid - outside the list",index));
                 }
-                return this[index];
+                return this.elements[index];
             }
             set
             {
-                if(index < 0 || index > elements.Length)
+                if(index < 0 || index >= elements.Length)
                 {
                     throw new IndexOutOfRangeException(String.Format("The index {0} is invalid - outside the list", index));
                 }
-                this[index] = value;
+                this.elements[index] = value;
+            }
+        }
+
+        //Implement auto-grow functionality: when the internal array is full, 
+        //create a new array of double size and move all elements to it.
+        public void ChechForAutoGrow()
+        {
+            //autogrow
+            if (this.elements.Length == this.capacity)
+            {
+                T[] newArray = new T[capacity * 2];
+                for (int i = 0; i < elements.Length; i++)
+                {
+                    newArray[i] = elements[i];
+                }
+                //change the reference to the array
+                this.elements = newArray;
             }
         }
 
 
-        //adding element
-        //public T[] AddElement(T element)
-        //{
-        //    //resize array to can contain the new element -> size + 1
-        //    T[] newArray = new T[elements.Length + 1];
-        //    for (int i = 0; i < elements.Length; i++)
-        //    {
-        //        newArray[i] = elements[i];
-        //    }
-        //    newArray[newArray.Length - 1] = element;
-        //    return newArray;
-        //}
-
-        public void AddElement(T element)
+       public void AddElement(T element)
         {
-            if (elements.Length <= this.capacity)
-            {
-                int i = 0;
-                if (elements[i] == null || (dynamic)elements[i] == 0)
-                {
-                    elements[i++] = element;
-                }
-            }
-        }
-
-        //removing element by index
-        public T[] RemoveElement(int index)
-        {
-            //check if it's possible to remove element at this position
-            if (index < 0 || index > elements.Length)
-            {
-                throw new IndexOutOfRangeException("Index is outside the array");
-            }
-            else
-            {
-                //resize array to can contain the new element -> size -1
-                T[] newArray = new T[elements.Length - 1];
-                for (int i = 0; i < index; i++)
-                {
-                    newArray[i] = elements[i];
-                }
-                for (int i = index + 1; i < elements.Length; i++)
-                {
-                    newArray[i] = elements[i];
-                }
-                return newArray;
-            }
+            ChechForAutoGrow();
+           
+           //add the new element at last position
+            elements[count] = element;
+            count++;
         }
 
         //inserting element at given position
-        public T[] InsertElementAtPosition(T element, int index)
+        public void InsertElementAtPosition(T element, int index)
         {
-            //check if it's possible to remove element at this position
-            if (index < 0 || index > elements.Length)
+            ChechForAutoGrow();
+
+            //check if it's possible to insert element at this position
+            if (index < 0 || index >= elements.Length)
             {
                 throw new IndexOutOfRangeException("Index is outside the array");
             }
@@ -127,43 +119,72 @@
                 {
                     newArray[i] = elements[i];
                 }
-                return newArray;
+
+                this.elements = newArray;
+
+                //for (int i = count; i > index; i--)
+                //{
+                //    this.elements[count] = this.elements[count-1];
+                //}
+                //this.elements[index] = element;
+                //count++;
             }
 
         }
 
-        //accessing element by index
-        public T GetElement(int index)
+        //removing element by index
+        public void RemoveElement(int index)
         {
-            T element;
-
-            if (index >= 0 || index < elements.Length)
+            //check if it's possible to remove element at this position
+            if (index < 0 || index >= elements.Length)
             {
-                element = elements[index];
-                return element;
+                throw new IndexOutOfRangeException("Index is outside the array");
             }
             else
             {
-                throw new IndexOutOfRangeException("Index is outside the array");
+                //resize array to can contain the new element -> size -1
+                //T[] newArray = new T[elements.Length - 1];
+                //for (int i = 0; i < index; i++)
+                //{
+                //    newArray[i] = elements[i];
+                //}
+                //for (int i = index+1; i < newArray.Length; i++)
+                //{
+                //    newArray[i] = elements[i];
+                //}
+                //this.elements = newArray;
+
+                for (int i = index; i < this.count - 1; i++)
+                {
+                    this.elements[i] = this.elements[i + 1];
+                }
+                count--;
             }
         }
 
         //clearing the list
-        public T[] ClearList()
+        public void ClearList()
         {
-            T[] newArray = new T[0];
-            return newArray;
+            this.Count = 0;
+            this.elements = new T[this.Capacity];
+
+            //set all elements to default value
+            //for (int i = 0; i < this.elements.Length; i++)
+            //{
+            //    this.elements[i] = default(T);
+            //}
         }
 
         //finding element by its value 
-        public int FindElementByValue(T element)
+        public int IndexOf(T element)
         {
-            int index = 0;
+            int index = -1;
             for (int i = 0; i < elements.Length; i++)
             {
                 if (elements[i].Equals(element))
                 {
                     index = i;
+                    break;
                 }
             }
             return index;
@@ -173,29 +194,11 @@
         {
             StringBuilder sb = new StringBuilder();
             sb.Append("Elements in list : ");
-            foreach (T element in this.elements)
-            {
-                sb.Append(element + " ");
-            }
+            for (int i = 0; i < this.count; i++)
+			{
+			 sb.Append(this.elements[i] + " ");
+			}
             return sb.ToString();
-        }
-
-
-        //Implement auto-grow functionality: when the internal array is full, 
-        //create a new array of double size and move all elements to it.
-        public T[] AutoGrow()
-        {
-            if(this.elements.Length == this.capacity)
-            {
-                T[] newArray = new T[capacity * 2];
-                for (int i = 0; i < elements.Length; i++)
-                {
-                    newArray[i] = elements[i]; 
-                }
-                return newArray;
-            }
-
-            return this.elements;
         }
 
 
@@ -205,7 +208,7 @@
 
         public T Min()
         {
-            T min = elements[0];
+            T min = this.elements[0];
             for (int i = 0; i < elements.Length; i++)
             {
                 if (elements[i].CompareTo(min) < 0)
@@ -218,7 +221,7 @@
 
         public T Max()
         {
-            T max = elements[0];
+            T max = this.elements[0];
             for (int i = 0; i < elements.Length; i++)
             {
                 if (elements[i].CompareTo(max) > 0)
@@ -228,6 +231,5 @@
             }
             return max;
         }
-
     }
 }

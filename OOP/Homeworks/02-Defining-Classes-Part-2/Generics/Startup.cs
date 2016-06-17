@@ -14,6 +14,20 @@
             intList.AddElement(0);
 
             Console.WriteLine(intList);
+            Console.WriteLine(intList.Min());
+            Console.WriteLine(intList.Max());
+
+            intList.AddElement(500);
+            Console.WriteLine(intList);
+
+            intList.RemoveElement(1);
+            Console.WriteLine(intList);
+
+            intList.InsertElementAtPosition(12, 2);
+            Console.WriteLine(intList);
+
+            Console.WriteLine(intList.IndexOf(12));
+            Console.WriteLine(intList.IndexOf(99));
 
         }
     }
