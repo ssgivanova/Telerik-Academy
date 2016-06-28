@@ -24,7 +24,7 @@
                                                 new Student("Alexander","Krasimirov",18),
                                                 new Student("Marin","Alexandrov",22),
                                     };
-
+                      
             var sortedStudents = students.SortFirstNameBeforeLast();
 
             foreach (var st in sortedStudents)

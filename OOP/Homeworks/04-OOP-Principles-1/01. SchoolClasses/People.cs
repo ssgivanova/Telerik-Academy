@@ -7,7 +7,9 @@
         private string name;
 
         public People(string name)
-        { }
+        { 
+			this.Name = name;
+		}
 
         public string Name
         {
