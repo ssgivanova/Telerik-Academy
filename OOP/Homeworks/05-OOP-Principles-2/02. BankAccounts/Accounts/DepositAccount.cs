@@ -9,6 +9,10 @@
 
         public void WithDraw(decimal amount) 
         {
+            if (amount <= 0)
+            {
+                throw new ArgumentException("The amount can't be negative number");
+            }
             this.Balance -= amount;
         }
 
@@ -17,6 +21,10 @@
         //Deposit accounts have no interest if their balance is positive and less than  1000 .
         public override decimal CalculateInterest(int nbrMonths)
         {
+            if (nbrMonths <= 0)
+            {
+                throw new ArgumentException("The number of months must be positive number");
+            }
             if (this.Balance > 0 && this.Balance < 1000)
             {
                 return 0;

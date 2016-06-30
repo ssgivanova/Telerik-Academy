@@ -49,12 +49,20 @@
 
         public void Deposit(decimal amount)
         {
+            if (amount <= 0)
+            {
+                throw new ArgumentException("The amount can't be negative number");
+            }
             this.Balance += amount;
         }
 
         //All accounts can calculate their interest amount for a given period (in months).
         public virtual decimal CalculateInterest(int nbrMonths)
         {
+            if (nbrMonths <= 0)
+            {
+                throw new ArgumentException("The number of months must be positive number");
+            }
             return nbrMonths * this.interestRateMonthly;
         }
 

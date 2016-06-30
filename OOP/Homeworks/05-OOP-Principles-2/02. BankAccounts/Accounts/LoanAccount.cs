@@ -25,6 +25,10 @@
 
         public override decimal CalculateInterest(int nbrMonths)
         {
+            if (nbrMonths <= 0)
+            {
+                throw new ArgumentException("The number of months must be positive number");
+            }
             //calculate free months according type of customer
             int firstFreeMonths = 0;
             int nextMonthsWithInterest = 0;

@@ -24,8 +24,12 @@
         //for the first  6  months for individuals.
         public override decimal CalculateInterest(int nbrMonths)
         {
-            decimal interest = 0;
+            if (nbrMonths <= 0)
+            {
+                throw new ArgumentException("The number of months must be positive number");
+            }
 
+            decimal interest = 0;
             //calculate free months according type of customer
             int firstMonthsPromotion = 0;
             int nextMonthsWithFullInterest = 0;
