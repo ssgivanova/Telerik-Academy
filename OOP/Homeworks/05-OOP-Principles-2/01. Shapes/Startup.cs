@@ -31,8 +31,24 @@
 
             foreach (var sh in shapes)
             {
-                Console.WriteLine("Permiter : {0:f2}mm ", sh.CalculateSurface());
-                //Console.WriteLine("Permiter : {0:f2}mm - {1}", sh.CalculateSurface(),sh);
+                Console.WriteLine("Surface : {0:f2}mm - {1}", sh.CalculateSurface(), sh.GetType().Name);
+            }
+
+            Console.WriteLine();
+            
+            //second
+            Shape[] shapes2 = {
+                                    new Rectangle(5.5,10),
+                                    new Square(3.3),
+                                    new Triangle(5.5, 10),
+                                    new Rectangle(2,1),
+                                    new Square(1),
+                                    new Triangle(2, 2)
+                                };
+
+            foreach (var shape in shapes2)
+            {
+                Console.WriteLine("{0}: Surface is {1:0.00} m²", shape.GetType().Name, shape.CalculateSurface());
             }
 
             
